@@ -1,5 +1,5 @@
 
-### Olá Eu sou um Felippi Ascendino, mas pode me chamar de Lippi 👋 
+### Olá Eu sou um Felippi Ascendino👋 
 
 ![Ascenindino GitHub stats](https://github-readme-stats.vercel.app/api?username=ascenindex&show_icons=true&theme=onedark)
 
