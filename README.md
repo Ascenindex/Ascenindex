@@ -48,7 +48,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
-  <img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ascenindex&bg_color=d1fff0&color=45b83d&line=379d0b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" height="220" alt="streak graph"  />
+  <img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ascenindex&bg_color=d1fff0&color=45b83d&line=379d0b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" height="220" alt=""  />
 </div>
 
 ###
