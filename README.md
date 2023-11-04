@@ -12,4 +12,5 @@
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-563D7C?style=for-the-badge&logo=php&logoColor=black&color=787CB5" /> 
 
+  <img align="center" alt="Jquery" src="https://img.shields.io/badge/Jquery-563D7C?style=for-the-badge&logo=Jquery&logoColor=black&color=787CB5" /> 
 Me aprimorando cada dia mais.
