@@ -13,4 +13,9 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-563D7C?style=for-the-badge&logo=php&logoColor=black&color=787CB5" /> 
 
   <img align="center" alt="Jquery" src="https://img.shields.io/badge/Jquery-563D7C?style=for-the-badge&logo=Jquery&logoColor=white&color=123987" /> <br />
+
+<img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-563D7C?style=for-the-badge&logo=SQL&logoColor=white&color=123987" /> <br />
+
+
+
 Me aprimorando cada dia mais.
