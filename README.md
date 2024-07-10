@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Felippi from Brazil<br><br>- 🔭 I’m working as Front-End and study back-end<br>- 📚 I'm currently learning dev system<br>- ⚡ In my free time I code</p>
+<p align="left">I'm Felippi, from Brazil<br><br>- 🔭 I’m working as Front-End and study back-end<br>- 📚 I'm currently learning dev system<br>- ⚡ In my free time I code</p>
 
 ###
 
